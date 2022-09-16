@@ -1,0 +1,2 @@
+# jefeminer
+JEFE FTM MINER
